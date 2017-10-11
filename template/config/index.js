@@ -8,6 +8,8 @@ module.exports = {
   build: {
     env: require('./prod.env'),
     index: path.resolve(__dirname, '../dist/templates/index.html'),
+    //html 打包目录相对于assetsRoot的路径
+    pagesRoot: '../templates/',
     assetsRoot: path.resolve(__dirname, '../dist/static'),
     assetsSubDirectory: '',
     assetsPublicPath: '/',
