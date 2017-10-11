@@ -4,18 +4,25 @@
 可以通过vue-cli工具应用本模板创建vue多页面应用
 使用前需要先安装
   node.js
+  
   npm
+  
   vue-cli
+  
 然后在命令行中到几要创建的目录下执行
+
 `vue init MarkQueryJudge/webpack#develop myproject`
+
 myproject 为项目名可自定义
 按回车执行，并按需求添加变可创建项目
 
 ## 启动项目方法
-`cd myproject
- npm install 
- npm run dev`
 
+  cd myproject
+  
+  npm install 
+  
+  npm run dev
 
 
 
