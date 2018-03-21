@@ -11,7 +11,7 @@
   
 然后在命令行中到几要创建的目录下执行
 
-`vue init MarkQueryJudge/webpack#develop myproject`
+`vue init markqj/webpack#develop myproject`
 
 myproject 为项目名可自定义
 按回车执行，并按需求添加变可创建项目
